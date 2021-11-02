@@ -33,7 +33,7 @@ From the landing page you can choose to either sign up or sign in.  Once signed 
 ![Screenshot](public/images/carboloaderscreenshot2.png)
 ![Screenshot](public/images/carboloaderscreenshot3.png)
 
-## Future Development0:
+## Future Development:
 We look forward to adding the ability for users to enter their own custom foods,  giving the option to display the total dietary fiber of the current meal, the also the option for a user to view the net carbohydrates (total carbohydrates minus the dietary fiber). 
 
 ## License: 
